@@ -51,8 +51,8 @@ financial-stock-analysis/
 
 1. **Clone the repo**
 ```bash
-git clone https://github.com/yourusername/financial-stock-analysis.git
-cd financial-stock-analysis
+git clone https://github.com/yourusername/Financial-Stock-Analysis.git
+cd Financial-Stock-Analysis
 ```
 
 2. **Install dependencies**
