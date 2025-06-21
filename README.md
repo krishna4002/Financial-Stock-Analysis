@@ -51,7 +51,7 @@ financial-stock-analysis/
 
 1. **Clone the repo**
 ```bash
-git clone https://github.com/yourusername/Financial-Stock-Analysis.git
+git clone https://github.com/krishna4002/Financial-Stock-Analysis.git
 cd Financial-Stock-Analysis
 ```
 
